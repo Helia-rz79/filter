@@ -4,7 +4,8 @@
 
 ![1 jpg](https://github.com/user-attachments/assets/ec85c99c-020f-4734-8038-eb874787f432))
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![2](https://github.com/user-attachments/assets/3be5d5ec-d273-46b6-9840-a362a3e3fb02)
+
 
 - [Demo Project](https://helia-rz79.github.io/project1/)
 
