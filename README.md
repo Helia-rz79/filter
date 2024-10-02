@@ -2,7 +2,7 @@
 
 **😊If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://user-images.githubusercontent.com/![1 jpg](https://github.com/user-attachments/assets/ec85c99c-020f-4734-8038-eb874787f432))
+![1 jpg](https://github.com/user-attachments/assets/ec85c99c-020f-4734-8038-eb874787f432))
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
